@@ -1,0 +1,14 @@
+{
+  "name": "popnow-video-planner",
+  "displayName": "PopNow Video Planner",
+  "version": "1.0.0",
+  "description": "Plan AI videos before you spend credits: turn an idea or script into a timed shot list, write model-specific prompts for Seedance, Kling, MiniMax Hailuo and Wan, write keyframe prompts for Nano Banana, GPT Image, Seedream and FLUX, and estimate what the whole project costs across platforms. Text only: it never calls a generation API.",
+  "author": {
+    "name": "PopNow",
+    "url": "https://popnow.ai"
+  },
+  "homepage": "https://popnow.ai",
+  "repository": "https://github.com/popnow-ai/popnow-video-planner",
+  "license": "MIT",
+  "keywords": ["video-planning", "storyboard", "shot-list", "prompt-writing", "pre-production", "ai-video", "budget"]
+}
