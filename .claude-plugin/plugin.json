@@ -9,6 +9,26 @@
   },
   "homepage": "https://popnow.ai",
   "repository": "https://github.com/popnow-ai/popnow-claude-plugin",
+  "documentationUrl": "https://popnow.ai/docs",
+  "supportUrl": "https://popnow.ai/contact",
+  "privacyPolicyUrl": "https://popnow.ai/privacy",
+  "termsOfServiceUrl": "https://popnow.ai/terms",
   "license": "MIT",
-  "keywords": ["ai-video", "video-planning", "storyboard", "shot-list", "prompt-engineering", "seedance", "kling", "ugc-ads", "ad-hooks", "explainer-video", "faceless-video", "style-guide", "video-budget", "popnow-api", "sdk"]
+  "keywords": [
+    "ai-video",
+    "video-planning",
+    "storyboard",
+    "shot-list",
+    "prompt-engineering",
+    "seedance",
+    "kling",
+    "ugc-ads",
+    "ad-hooks",
+    "explainer-video",
+    "faceless-video",
+    "style-guide",
+    "video-budget",
+    "popnow-api",
+    "sdk"
+  ]
 }
