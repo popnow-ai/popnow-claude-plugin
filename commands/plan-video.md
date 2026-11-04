@@ -1,5 +1,5 @@
 ---
-description: Plan an AI video from an idea or script - shot list, prompts, keyframes and a cost estimate
+description: Plan an AI video from one brief - shot list, keyframes, model-specific prompts, review and a cost estimate
 argument-hint: "[idea, script or brief]"
 ---
 
@@ -11,5 +11,6 @@ Work through these steps in order, using the plugin's skills:
 2. Use the `keyframe-prompts` skill for every shot that should start from an image.
 3. Use the `video-prompts` skill to write one prompt per shot, with the recommended model and settings.
 4. Use the `generation-budget` skill to estimate the total cost with retries, and show the cheaper drafting option.
+5. Ask the `storyboard-reviewer` agent to review the plan, then apply its blocker and fix items.
 
 Finish with a short summary: number of shots, total length, recommended models and the estimated budget range. Do not generate any media; this plan is text only.

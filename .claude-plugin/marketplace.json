@@ -1,17 +1,17 @@
 {
-  "name": "popnow-video-planner",
-  "description": "Plan AI videos before you spend credits: shot lists, model-specific prompts, keyframe prompts and cost estimates. Text only.",
+  "name": "popnow",
+  "description": "PopNow for Claude: AI video pre-production skills and PopNow API integration.",
   "owner": {
     "name": "PopNow",
     "url": "https://popnow.ai"
   },
   "plugins": [
     {
-      "name": "popnow-video-planner",
+      "name": "popnow",
       "source": "./",
-      "description": "Plan AI videos before you spend credits: shot lists, model-specific prompts, keyframe prompts and cost estimates. Text only.",
+      "description": "Plan AI videos before you spend credits and integrate the PopNow API into your apps.",
       "version": "1.0.0",
-      "category": "productivity"
+      "category": "design"
     }
   ]
 }
