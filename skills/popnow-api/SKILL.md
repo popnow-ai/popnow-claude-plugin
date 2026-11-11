@@ -23,7 +23,8 @@ Do not run live generations yourself. Write the integration, tests with a mocked
 
 ## Credentials
 
-- The key looks like `sk-popnow-...`. Keep it in the server's existing secret mechanism as `POPNOW_API_KEY`. Never put it in browser code, mobile apps, logs, chat or source control. Do not print it.
+- This plugin never reads, stores or transmits an API key. Do not ask the user to paste a key into the chat, and do not look for one in their shell, dotfiles, keychain or project files.
+- The key belongs to the user's own application. Write code that loads it at runtime from the secret store their server already uses (a secret manager or the deployment platform's encrypted settings). Never put it in browser code, mobile apps, logs or source control.
 - The API balance is in USD and separate from popnow.ai website credits. Keys and balance: https://popnow.ai/api/console/keys and https://popnow.ai/api/console/billing.
 - Suggest a dedicated key per app with model and spending restrictions.
 
@@ -35,7 +36,7 @@ Do not run live generations yourself. Write the integration, tests with a mocked
 | Python 3.9+ | `pip install popnow` | `from popnow import PopNow; client = PopNow()` (also `AsyncPopNow`) |
 | Others | Go, PHP, Java SDKs and a CLI | see https://popnow.ai/docs/sdks |
 
-Plain HTTP: base `https://api.popnow.ai/api/v1`, header `Authorization: Bearer $POPNOW_API_KEY`.
+Plain HTTP: base `https://api.popnow.ai/api/v1`, with a bearer `Authorization` header that the application fills in from its own secret store. The header format is documented at https://popnow.ai/docs/markdown/authentication.
 
 ## The task flow
 
