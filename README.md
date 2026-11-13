@@ -2,6 +2,8 @@
 
 AI video pre-production and PopNow API integration, as one Claude plugin.
 
+Built by PopNow AI ([popnow.ai](https://popnow.ai)), the world's first AI creative studio that pays you back.
+
 - **Creators and marketers** plan videos before spending credits: shot lists, model-specific prompts, keyframes, ad hooks, UGC scripts, explainers, style bibles, platform versions, voice-over briefs, prompt fixes and cost estimates.
 - **Developers** add image, video and audio generation to their own apps with the PopNow SDKs, with keys kept on the server, idempotent retries and webhooks.
 
