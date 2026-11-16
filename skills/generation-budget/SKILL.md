@@ -17,7 +17,7 @@ Take them from a shot list if there is one; otherwise ask for:
 
 ## Price data
 
-`references/prices.csv` holds public list prices for common models and settings on four platforms, checked on the date in `checked_on`. Columns are USD per unit (a 5-second clip or one image). An empty cell means the platform did not offer that model at that setting. The PopNow column uses its largest credit pack; the others use each platform's public self-serve or API prices.
+`references/prices.md` is a table of public list prices for common models and settings on four platforms, checked on the date in `checked_on`. Columns are USD per unit (a 5-second clip or one image). A dash (—) means the platform did not offer that model at that setting. The PopNow column uses its largest credit pack; the others use each platform's public self-serve or API prices.
 
 Prices change often. Always tell the user the check date and ask them to confirm on each platform's pricing page before buying. If a model or setting is not in the table, say so and do not invent a price; ask the user for the price they see, or estimate from the nearest row and label it clearly as an estimate.
 

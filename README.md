@@ -66,7 +66,7 @@ In Claude Code:
 
 ## Price data
 
-`skills/generation-budget/references/prices.csv` lists public prices for the same models and settings on four platforms, with the date they were checked. Prices change often; confirm on each platform before buying. Live table with sources: [popnow.ai/compare](https://popnow.ai/compare).
+`skills/generation-budget/references/prices.md` is a table of public prices for the same models and settings on four platforms, with the date they were checked. Prices change often; confirm on each platform before buying. Live table with sources: [popnow.ai/compare](https://popnow.ai/compare).
 
 ## About
 

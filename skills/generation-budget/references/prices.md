@@ -1,0 +1,21 @@
+# Public list prices
+
+USD per unit (a 5-second clip or one image). A dash (—) means the platform did not offer that model at that setting. Checked on the date in `checked_on`.
+
+| model | modality | setting | unit | popnow_usd | higgsfield_usd | runway_usd | fal_usd | max_saving_pct | checked_on |
+|---|---|---|---|---|---|---|---|---|---|
+| MiniMax H3 | video | 2K | 5s | 0.26 | 0.65 | 0.75 | 0.65 | 65 | 2026-10-31 |
+| MiniMax H3 | video | 768p | 5s | 0.17 | — | 0.5 | 0.3 | 67 | 2026-10-31 |
+| Seedance 2.0 Mini | video | 480p | 5s | 0.11 | — | 0.35 | 0.36 | 69 | 2026-10-31 |
+| Seedance 2.0 Fast | video | 720p | 5s | 0.43 | 0.59 | 1.2 | 1.21 | 64 | 2026-10-31 |
+| Seedance 2.0 | video | 720p | 5s | 0.71 | 1.51 | 1.5 | 1.52 | 53 | 2026-10-31 |
+| Seedance 2.0 | video | 1080p | 5s | 1.74 | 3.4 | 2.0 | 3.41 | 49 | 2026-10-31 |
+| Seedance 2.5 | video | 480p | 5s | 0.55 | 1.03 | 1.0 | 1.1 | 50 | 2026-10-31 |
+| Seedance 2.5 | video | 720p | 5s | 1.24 | 2.31 | 1.5 | 2.36 | 47 | 2026-10-31 |
+| Seedance 2.5 | video | 1080p | 5s | 3.05 | 5.69 | 3.4 | 5.82 | 47 | 2026-10-31 |
+| Kling 3.0 | video | 1080p | 5s | 0.6 | 0.84 | 0.85 | 0.84 | 29 | 2026-10-31 |
+| Nano Banana 2 | image | 1K | 1 image | 0.048 | 0.098 | 0.07 | 0.08 | 51 | 2026-10-31 |
+| Nano Banana Pro | image | 4K | 1 image | 0.17 | 0.2 | 0.4 | — | 57 | 2026-10-31 |
+| Seedream 5.0 Pro | image | 1K | 1 image | 0.032 | — | 0.05 | 0.068 | 52 | 2026-10-31 |
+| Seedream 5.0 Pro | image | 2K | 1 image | 0.064 | — | 0.09 | 0.14 | 52 | 2026-10-31 |
+| GPT Image 2.5 Sunburst | image | 4K medium | 1 image | 0.032 | — | 0.05 | — | 35 | 2026-10-31 |
