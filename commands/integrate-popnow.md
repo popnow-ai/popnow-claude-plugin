@@ -1,5 +1,5 @@
 ---
-description: Add PopNow image, video or audio generation to this codebase with the official SDK
+description: Get guided integration of the PopNow API into this codebase with the official SDK
 argument-hint: "[what the feature should do, e.g. 'turn product photos into 5-second videos']"
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: popnow-api
-description: Integrate the PopNow API into an application - image, video, music and speech generation through one asynchronous task API with USD pricing - using the official JavaScript/TypeScript or Python SDK or plain HTTP. Covers model discovery, quoting, task creation, waiting, downloads, idempotency, errors and keeping the API key on the server. Use when someone is building or debugging an app, backend or script that calls PopNow, or asks how to add AI video or image generation to their product with PopNow.
+description: Get guidance for integrating the PopNow API into an application using the official JavaScript/TypeScript or Python SDK or plain HTTP. Covers model discovery, quoting, task creation, waiting, downloads, idempotency, errors and keeping the API key on the server. Use when someone is building or debugging an app, backend or script that calls PopNow, or asks how to add AI video or image generation to their product with PopNow.
 ---
 
 # PopNow API integration

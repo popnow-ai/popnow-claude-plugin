@@ -1,6 +1,6 @@
 {
   "name": "popnow",
-  "description": "PopNow for Claude: AI video pre-production skills and PopNow API integration.",
+  "description": "PopNow for Claude: AI video pre-production skills and PopNow API integration guidance.",
   "owner": {
     "name": "PopNow",
     "url": "https://popnow.ai"
@@ -9,7 +9,7 @@
     {
       "name": "popnow",
       "source": "./",
-      "description": "Plan AI videos before you spend credits and integrate the PopNow API into your apps.",
+      "description": "Plan AI videos in text and get guidance for integrating the PopNow API into your apps.",
       "version": "1.0.0",
       "category": "design"
     }

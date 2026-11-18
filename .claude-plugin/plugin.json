@@ -2,7 +2,7 @@
   "name": "popnow",
   "displayName": "PopNow",
   "version": "1.0.0",
-  "description": "AI video pre-production and PopNow API integration for Claude. Plan videos before you spend credits: shot lists, Seedance, Kling, Hailuo and Wan prompts, keyframe prompts for Nano Banana, GPT Image, Seedream and FLUX, ad hook variants, UGC scripts, explainer scripts, style bibles, platform specs, voice-over briefs, prompt fixes and cross-platform cost estimates. Developers get skills to add PopNow image, video and audio generation to their apps with the official SDKs. Planning is text only and never runs a paid generation.",
+  "description": "Plan AI videos in text and get guidance for integrating the PopNow API into your apps. Planning skills write shot lists, Seedance, Kling, Hailuo and Wan prompts, keyframe prompts, ad hook variants, UGC and explainer scripts, style bibles, platform specs, voice-over briefs, prompt fixes and cost estimates. Developer skills guide integration with the official SDKs and webhooks. This plugin does not generate images, video or audio in Claude.",
   "author": {
     "name": "PopNow",
     "url": "https://popnow.ai"
